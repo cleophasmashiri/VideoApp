@@ -1,0 +1,44 @@
+[Rr]elease*/
+Ankh.NoLoad
+
+#MonoDevelop
+*.pidb
+*.userprefs
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+# vim Temp Files
+*~
+
+#NuGet
+packages/
+*.nupkg
+
+#ncrunch
+*ncrunch*
+*crunch*.local.xml
+
+# visual studio database projects
+*.dbmdl
+
+#Test files
+*.testsettings
+ /VideoApp.Rest/VideoApp.Rest.xproj.user
+ /VideoApp.Domain/VideoApp.Domain.xproj.user
+ /VideoApp.Tests/VideoApp.Tests.xproj.user
+ /VideoApp.Web/VideoApp.Web.xproj.user
+ /.vs/VideoApp/v14/.suo
+ 
